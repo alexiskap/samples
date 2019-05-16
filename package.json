@@ -1,0 +1,22 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "just learning to create .json files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "practise",
+    "not_for_use"
+  ],
+  "author": "Alexander Kapelas",
+  "license": "NLPL",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "webpack": "^4.31.0"
+  }
+}
